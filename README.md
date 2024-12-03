@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/McCoy-Flateline/AdventOfCode/">
-    <img src="images/logo.png" alt="Logo" width="60" height="80">
+    <img src="Images/logo.png" alt="Logo" width="60" height="80">
   </a>
 
   <h3 align="center">AdventOfCode</h3>
