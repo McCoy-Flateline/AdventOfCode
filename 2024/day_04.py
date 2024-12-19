@@ -1,4 +1,4 @@
-# AdventOfCode/2024/day4/py
+# AdventOfCode/2024/day_04.py
 
 from aocd import get_data
 from typing import List, Tuple

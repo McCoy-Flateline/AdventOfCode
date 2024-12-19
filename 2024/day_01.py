@@ -1,4 +1,4 @@
-# AdventOfCode/2024/day_01/py
+# AdventOfCode/2024/day_01.py
 
 from aocd import get_data
 import re

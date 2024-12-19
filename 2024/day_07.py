@@ -1,4 +1,4 @@
-# AdventOfCode/2024/day7/py
+# AdventOfCode/2024/day_07.py
 
 from aocd import get_data
 from math import log10
